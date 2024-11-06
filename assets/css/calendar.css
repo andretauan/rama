@@ -1,0 +1,24 @@
+#calendar .fc-day-future {
+    cursor: pointer;
+}
+
+#calendar .fc-day-disabled {
+    cursor: not-allowed;
+    color: rgb(129, 129, 129);
+}
+
+#calendar .fc-daygrid-bg-harness {
+    cursor: not-allowed;
+}
+
+#calendar .fc-toolbar-title {
+    font-size: medium;
+}
+
+#calendar .fc-event-title {
+    color: white;
+}
+
+.conf {
+    cursor: pointer;
+}
